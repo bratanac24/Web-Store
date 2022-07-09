@@ -39,32 +39,6 @@ const Footer = () => {
               </NavLink>
             ))}
           </div>
-          <div className="ec-footer-socials">
-            <IconButton
-              className="ec-footer-social"
-              size="large"
-              href="https://instagram.com/urosmilkovic"
-              target="_blank"
-            >
-              <Instagram />
-            </IconButton>
-            <IconButton
-              className="ec-footer-social"
-              size="large"
-              href="https://facebook.com/u.milkovic"
-              target="_blank"
-            >
-              <Facebook />
-            </IconButton>
-            <IconButton
-              className="ec-footer-social"
-              size="large"
-              href="https://www.linkedin.com/in/urosmilkovic/"
-              target="_blank"
-            >
-              <LinkedIn />
-            </IconButton>
-          </div>
         </div>
       </div>
       <div className="ec-copyright">
